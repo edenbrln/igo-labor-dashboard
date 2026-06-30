@@ -1,6 +1,6 @@
 # Lumetra: A Labour Market Analysis Dashboard for International Organizations
 <p align="center">
-  <img src="assets/image_1.png" alt="Lumetra Logo" width="400">
+  <img src="assets/Image_1.png" alt="Lumetra Logo" width="400">
 </p>
 
 
