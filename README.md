@@ -58,4 +58,4 @@ This project is framed as a **labour market analysis tool**, not a job board: th
 
 Dongju — M.Sc. Data Science candidate at Pusan National University, background in International Relations
 
-This project is part of an ongoing portfolio combining data science methods with international organization labour market applications, designed for review by HR and workforce planning teams at international organizations.
+This project is part of an ongoing portfolio combining data science methods with international organization labour market applications.
