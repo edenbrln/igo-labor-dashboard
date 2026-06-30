@@ -1,4 +1,8 @@
 # Lumetra: A Labour Market Analysis Dashboard for International Organizations
+<p align="center">
+  <img src="assets/image_1.png" alt="Lumetra Logo" width="400">
+</p>
+
 
 *Data Science meets Unity in Diversity*
 
