@@ -12,7 +12,7 @@ A SaaS-style web dashboard for analyzing labour market trends across internation
   <img src="assets/dashboard_1.png" alt="Dashboard Screenshot" width="700">
 </p>
 
-*⚠️ Mock product — screenshot from local development environment, not yet a finished product.*
+*Mock product — conceptual mockups*
 
 ## Overview
 
@@ -36,7 +36,7 @@ This project is framed as a **labour market analysis tool**, not a job board: th
   <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350">
 </p>
 
-*⚠️ Mock images — conceptual mockups only, not representative of the final product.*
+*Mock images — conceptual mockups*
 
 ## Methodology
 
