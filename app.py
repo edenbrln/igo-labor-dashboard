@@ -25,7 +25,7 @@ def get_image_base64(image_path):
 
 # 로고 및 푸터 이미지 로드
 logo_base64 = get_image_base64("assets/image_1.png")
-footer_logo_base64 = get_image_base64("assets/Image_2.png")
+footer_logo_base64 = get_image_base64("assets/image_2.png")
 
 
 st.markdown("""
