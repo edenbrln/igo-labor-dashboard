@@ -9,10 +9,9 @@
 A SaaS-style web dashboard for analyzing labour market trends across international organizations — covering job postings, role distributions, and geographic demand patterns across continents and countries.
 
 <p align="center">
-  <img src="assets/dashboard_1.png" alt="Dashboard Screenshot" width="700">
+  <img src="assets/dashboard_1.png" alt="Dashboard Screenshot" width="700"><br>
+  <em>Mock product — conceptual mockups</em>
 </p>
-
-*Mock product — conceptual mockups*
 
 ## Overview
 
@@ -33,10 +32,9 @@ This project is framed as a **labour market analysis tool**, not a job board: th
 
 <p align="center">
   <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="350">
-  <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350">
+  <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350"><br>
+  <em>Mock images — conceptual mockups</em>
 </p>
-
-*Mock images — conceptual mockups*
 
 ## Methodology
 
