@@ -9,7 +9,7 @@
 A SaaS-style web dashboard for analyzing labour market trends across international organizations — covering job postings, role distributions, and geographic demand patterns across continents and countries.
 
 <p align="center">
-  <img src="assets/dashboard_1.png" alt="Dashboard Screenshot" width="700"><br>
+  <img src="assets/dashboard_1.png" alt="Dashboard Front" width="700"><br>
   <em>Mock product — conceptual mockups</em>
 </p>
 
@@ -31,12 +31,12 @@ This project is framed as a **labour market analysis tool**, not a job board: th
 *Devex and Idealist were evaluated and found inaccessible for this use case.*
 
 <p align="center">
-  <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="350"><br>
+  <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="700"><br>
   <em>Mock images — conceptual mockups</em>
 </p>
 
 <p align="center">
-  <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350"><br>
+  <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="700"><br>
   <em>Mock images — conceptual mockups</em>
 </p>
 
