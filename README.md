@@ -31,7 +31,11 @@ This project is framed as a **labour market analysis tool**, not a job board: th
 *Devex and Idealist were evaluated and found inaccessible for this use case.*
 
 <p align="center">
-  <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="350">
+  <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="350"><br>
+  <em>Mock images — conceptual mockups</em>
+</p>
+
+<p align="center">
   <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350"><br>
   <em>Mock images — conceptual mockups</em>
 </p>
