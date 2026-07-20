@@ -8,6 +8,12 @@
 
 A SaaS-style web dashboard for analyzing labour market trends across international organizations — covering job postings, role distributions, and geographic demand patterns across continents and countries.
 
+<p align="center">
+  <img src="assets/dashboard_1.png" alt="Dashboard Screenshot" width="700">
+</p>
+
+*⚠️ Mock product — screenshot from local development environment, not yet a finished product.*
+
 ## Overview
 
 International organizations (UN agencies, NGOs, IGOs) post labour market opportunities across dozens of platforms with no unified way to analyze trends across regions, sectors, or roles. Lumetra aggregates and visualizes this labour market data to surface patterns that are otherwise scattered across individual organizational sites — geographic concentration of demand, role-type trends, and keyword/skill frequency across postings.
@@ -24,6 +30,13 @@ This project is framed as a **labour market analysis tool**, not a job board: th
 | UN Talent API | Request pending | UN system-wide vacancy data |
 
 *Devex and Idealist were evaluated and found inaccessible for this use case.*
+
+<p align="center">
+  <img src="assets/dashboard_mock_2.png" alt="Dashboard Mock 2" width="350">
+  <img src="assets/dashboard_mock_3.png" alt="Dashboard Mock 3" width="350">
+</p>
+
+*⚠️ Mock images — conceptual mockups only, not representative of the final product.*
 
 ## Methodology
 
