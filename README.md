@@ -8,6 +8,10 @@
 
 A SaaS-style web dashboard for analyzing labour market trends across international organizations — covering job postings, role distributions, and geographic demand patterns across continents and countries.
 
+<p align="center">
+  <img src="dashboard mock_1.png" alt="Lumetra Front" width="400">
+</p>
+
 ## Overview
 
 International organizations (UN agencies, NGOs, IGOs) post labour market opportunities across dozens of platforms with no unified way to analyze trends across regions, sectors, or roles. Lumetra aggregates and visualizes this labour market data to surface patterns that are otherwise scattered across individual organizational sites — geographic concentration of demand, role-type trends, and keyword/skill frequency across postings.
